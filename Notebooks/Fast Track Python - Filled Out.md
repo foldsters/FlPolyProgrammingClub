@@ -83,7 +83,7 @@ print(6, type(6))
 print(-5.2, type(-5.2))
 print(6.0, type(6.0))
 
-# Be careful with these, the computer makes the equivelant of rounding error mistakes
+# Be careful with these, the computer makes the equivalent of rounding error mistakes
 print(0.3, 0.1 + 0.1 + 0.1)
 ```
 
